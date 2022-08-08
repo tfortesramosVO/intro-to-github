@@ -1,19 +1,6 @@
-<!-- 
-  <<< Author notes: Header of the course >>> 
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
--->
-
 # Introduction to GitHub
 
-<!-- 
-  <<< Author notes: Step 1 >>> 
-  Choose 3-5 steps for your course.
-  The first step is always the hardest, so pick something easy!
-  Link to docs.github.com for further explanations.
-  Encourage users to open new tabs for steps!
--->
+_Get started using GitHub in less than an hour._
 
 <details id=1 open>
 <summary><h2>Step 1: Create a branch</h2></summary>
@@ -23,19 +10,12 @@ _Welcome to "Introduction to GitHub"! :wave:_
 ### :keyboard: Activity: Your first branch
 
 1. Open a new browser tab, and navigate to this same repository. Then, work on the steps in your second tab while you read the instructions in this tab.
-2. Navigate to the **Code** tab. 
+2. Navigate to the **Code** tab.
 3. Click on the **main** branch drop-down.<br>
    <img alt="image showing my-first-branch entry" src="/images/my-first-branch.png"/>
 4. In the field, enter a name for your branch: `my-first-branch`.
 5. Click **Create branch: my-first-branch** to create your branch.
-
 </details>
-
-<!-- 
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
--->
 
 <details id=2>
 <summary><h2>Step 2: Commit a file</h2></summary>
@@ -48,7 +28,7 @@ Creating a branch allows you to edit to your project without changing the `main`
 
 ### :keyboard: Activity: Your first commit
 
-The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch. 
+The following steps will guide you through the process of committing a change on GitHub. Committing a change requires first adding a new file to your new branch.
 
 1. On the **Code** tab, make sure you're on your new branch `my-first-branch`.
 2. Select the **Add file** drop-down and click **Create new file**.<br>
@@ -65,16 +45,7 @@ The following steps will guide you through the process of committing a change on
    <img alt="screenshot of adding a new file with a commit message" src="/images/commit-full-screen.png" />
    </details>
 6. In this lesson, we'll ignore the other fields and click **Commit new file**.
-
 </details>
-
-<!-- 
-  <<< Author notes: Step 3 >>> 
-  Just a historic note: the previous version of this step forced the learner
-  to write a pull request description,
-  checked that `main` was the receiving branch,
-  and that the file was named correctly.
--->
 
 <details id=3>
 <summary><h2>Step 3: Open a pull request</h2></summary>
@@ -104,15 +75,7 @@ You may have noticed after your commit that a message displayed indicating your 
 7. The next field helps you provide a description of the changes you made. Feel free to add a description of what you’ve accomplished so far. As a reminder, you have: created a branch, created a file and made a commit! <br>
    <img alt="screenshot showing pull request" src="/images/Pull-request-description.png"/>
 8. Click **Create pull request**.
-
 </details>
-
-<!-- 
-  <<< Author notes: Step 4 >>> 
-  Just a historic note: The previous version of this step required responding
-  to a pull request review before merging. The previous version also handled
-  if users accidentally closed without merging.
--->
 
 <details id=4>
 <summary><h2>Step 4: Merge your pull request</h2></summary>
@@ -134,11 +97,7 @@ As noted in the previous step, you may have seen evidence of an action running w
 1. Once your branch has been merged, you don't need it anymore. To delete this branch, click **Delete branch**.<br>
    <img alt="screenshot showing delete branch button" src="/images/delete-branch.png"/>
 
-
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+</details>
 
 ---
 
